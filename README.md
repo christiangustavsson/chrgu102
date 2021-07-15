@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Christian
+- 👋 Hi, I’m Christian!
 - 👀 I’m interested in math, programming, AI, ML and the stock market. 
 - 🌱 I’m currently learning about the above. And som physics as well. 
 - 💞️ I’m looking to collaborate on anything fun. 
